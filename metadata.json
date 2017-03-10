@@ -41,10 +41,23 @@
       ]
     },
     {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    },
+    {
       "operatingsystem": "RedHat",
       "operatingsystemrelease": [
         "6",
         "7"
+      ]
+    },
+    {
+      "operatingsystem": "Amazon",
+      "operatingsystemrelease": [
+        "2015",
+        "2016"
       ]
     }
   ],
